@@ -7,7 +7,7 @@ echo "*******-Starting CI CD Pipeline Tasks-*******"
 echo ""
 echo "..... Build Phase Started :: Compiling Source Code :: ......"
 cd java_web_code
-mvn install
+mvn install   
 
 #-BUILD (TEST)
 echo ""
