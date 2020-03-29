@@ -11,7 +11,7 @@ This demonstration will simulate a completely automated CI/CD deployment pipelin
  4. Copy the .war to a Docker build workspace (DEPLOYMENT AUTOMATION)
  5. Build a Docker image for Jboss server to run the war file. (DEPLOYMENT AUTOMATION)
  6. Deploy the Docker container on a target node. (DEPLOYMENT AUTOMATION)
-
+  
 **Prerequisites**:
 This demonstration has the following prerequisites:
  1. Jenkins should be installed with git, maven and shell plugins.
