@@ -2,7 +2,7 @@
 
 
 ----------
-
+    
 **Deliverables**:
 This demonstration will simulate a completely automated CI/CD deployment pipeline using Jenkins. It will essentially do the following steps (phases):
 1. Pull the source code for a Java EE based Project from GIT. (SCM AUTOMATION)
